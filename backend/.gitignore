@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Runtime
+dist/
+build/
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+
+# Debug files
+*.local
+*.sublime-workspace
+*.sublime-project
+
+# Nodemon and PM2
+.pids/
+*.pid
+*.seed
+
+# VS Code settings
+.vscode/

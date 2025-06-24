@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/books': {
-        target: 'http://localhost:5555',
+        target: `${process.env.REACT_APP_BACKEND_URL}`,
         changeOrigin: true,
       },
     },

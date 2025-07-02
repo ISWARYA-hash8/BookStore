@@ -44,10 +44,11 @@ Database   | MongoDB (Mongoose)
                     PORT = 5000 for example
                     Start the backend:
                     
-                    npm start
+                    nodemon server.js
                     3. Frontend Setup
                     
                     cd ../frontend
+                    setup vite using npm create vite@latest .
                     npm install
                     Start the frontend:
                     

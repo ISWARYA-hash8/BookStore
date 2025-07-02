@@ -31,6 +31,8 @@ Database   | MongoDB (Mongoose)
 
 git clone https://github.com/ISWARYA-hash8/BookStore.git
 cd BookStore
+
+
 2. Backend Setup
 
 cd backend

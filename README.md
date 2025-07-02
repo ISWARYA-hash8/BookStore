@@ -29,28 +29,28 @@ Database   | MongoDB (Mongoose)
 ### 1. Clone the Repository
 
 
-git clone https://github.com/ISWARYA-hash8/BookStore.git
-cd BookStore
-
-
-2. Backend Setup
-
-cd backend
-npm install
-Create a .env file inside backend/ with the following:
-
-
-MONGO_URI=your_mongodb_uri // mongo uri from mongo db atlas (cloud)
-PORT = 5000 for example
-Start the backend:
-
-npm start
-3. Frontend Setup
-
-cd ../frontend
-npm install
-Start the frontend:
-
-npm run dev
+                    git clone https://github.com/ISWARYA-hash8/BookStore.git
+                    cd BookStore
+                    
+                    
+                    2. Backend Setup
+                    
+                    cd backend
+                    npm install
+                    Create a .env file inside backend/ with the following:
+                    
+                    
+                    MONGO_URI=your_mongodb_uri // mongo uri from mongo db atlas (cloud)
+                    PORT = 5000 for example
+                    Start the backend:
+                    
+                    npm start
+                    3. Frontend Setup
+                    
+                    cd ../frontend
+                    npm install
+                    Start the frontend:
+                    
+                    npm run dev
 
 
